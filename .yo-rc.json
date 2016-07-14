@@ -1,0 +1,11 @@
+{
+  "generator-angular-pro": {
+    "version": "2.0.10",
+    "props": {
+      "appName": "festival-editor",
+      "target": "web",
+      "ui": "bootstrap",
+      "projectName": "festival-editor"
+    }
+  }
+}
