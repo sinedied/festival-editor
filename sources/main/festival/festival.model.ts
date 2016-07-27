@@ -17,6 +17,7 @@ export class Artist {
   country: string;
   facebook: string;
   soundcloud: string;
+  mixcloud: string;
   website: string;
   bio: {
     fr: string;
